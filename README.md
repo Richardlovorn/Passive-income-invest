@@ -1,4 +1,4 @@
-# Real Income Stream Generator - Automated Trading System
+k# Real Income Stream Generator - Automated Trading System
 
 ## ⚠️ CRITICAL WARNING
 
